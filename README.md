@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Olá, me chamo Rodolpho!<br>Comecei a estudar programação em Junho/22 e fico mais cativado a cada dia.<br>Atualmente estou estudando NodeJS.<br>As tecnologias que tenho conhecimento estão nas 'insígnias' abaixo.<br><br>⚡ Apaixonado por capivaras e lontras :)
+Olá, me chamo Rodolpho!<br>Comecei a estudar programação em Junho/22 e fico mais cativado a cada dia.<br>Atualmente estou estudando NodeJS.<br>As tecnologias que tenho conhecimento estão nas 'insígnias' abaixo.<br><br>⚡ Apaixonado por capivaras e lontras :) <br>
 ![Codewars](https://github.r2v.ch/codewars?user=rodnikerson&stroke=gray)
 
 # 💻 Tecnologias:
