@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Olá, me chamo Rodolpho!<br>Comecei a estudar programação em Junho/22 e fico mais cativado a cada dia.<br>⚡ Apaixonado por capivaras e lontras :) <br>
+Olá, me chamo Rodolpho!<br>Comecei a estudar programação em Junho/22 e fico mais cativado a cada dia.<br>⚡ Tenho um [blog](https://cybersoul.vercel.app/) que posto algumas poesias e reflexões. <br>
 ![Codewars](https://github.r2v.ch/codewars?user=rodnikerson&stroke=gray)
 
 # 💻 Tecnologias:
